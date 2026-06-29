@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2b0034/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 御製書通鑑續編宋主答徐鉉事藝祖志一統命師伐江南卑辭徐鉉來稱如事父嚴父子而兩家不可何待占緩師復遣求論辨徒詹詹榻側難容睡按劔叱何慙嫚罵如沛公創業多直談更能用曺彬禁暴恢海􅉼一時王業定太平引養恬時泰作廣義吹求致苛纎謂徐鉉辱君諛頌失太謙更為設若詞包茅問貢拈濶論名有無詭辨逞呫喃有如愛二毛宋師無救殱辭費申臆見史義何曽探昌黎有定評責人詳已亷
+  hash: sha256:81b8aebe901243860a4a16b642811de1e5b85233e73d2a429fd9320204b29993
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2b0034_WYG_000-1a, image: WYG0332/WYG0332-0435a.png}
+metadata:
+  title: 通鑑續編
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 22:25:27.645935'
+  juan_title: 御製書通鑑續編宋主答徐鉉事
+  source:
+    repository: kanripo
+    path: KR2b0034/KR2b0034_000.txt
+hash: sha256:bb12b383bbcf184eb118a4b5dcae53f683c17a999cf962686367b13ffa85e132

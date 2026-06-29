@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR2b0034/WYG/v1/juan/3
+seq: 3
+front:
+  text: 通鑑續編書例
+  hash: sha256:d3a93bb9a25f48cd9d9f619b750a1403b67eda7f0b1522d04bf7a3bd564cfd63
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR2b0034_WYG_003-1a, image: WYG0332/WYG0332-0438c.png}
+body:
+  text: 大書以便覽非竊有褒貶詳註以載事無變乎舊文國之興亡世之治亂帝王將相言政之得失后妃世子立廢之原本輔臣用舍賢士出處土地分并制度因革災祥之騐於事者疏議之行於時者則書不然則否盤古至高辛以世紀逺不可得詳也契丹安巴堅事備于唐宋太祖事備于周志其得國之故也契丹建國而繫于梁唐晉漢周尊華夏也宋建隆至太平興國三年係于甲子志其無異五代也宋太平興國四年以後繫之統志其同於漢唐也遼年繫于宋統之下尊無二上也其帝稱主外之也夏稱帝則書與遼同皆外之也遼年志夏改元乃書大小之别也金承遼故例同也宋渡江而猶繫之統同于東晉也元滅金夏有中國而反繫於宋明天命之未絶也帝王國鎮必志其地備事也
+  hash: sha256:c1e0cca01e9a1e0815370d6e8779dcf18a11f62e340eeda61c61dd9565f638a8
+metadata:
+  title: 通鑑續編
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 22:25:27.645935'
+  juan_title: 書例
+  source:
+    repository: kanripo
+    path: KR2b0034/KR2b0034_003.txt
+hash: sha256:874f2147089788c5bea62910875ed8be394cc309fbee42e6bcff4fa38b083fde
